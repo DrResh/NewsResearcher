@@ -6,6 +6,13 @@ The Equity Research News Tool is a comprehensive language model (LLM) project de
 # Project Overview:
 The primary objective of this project is to create a user-friendly web application that enables equity research analysts to gather relevant news articles based on their queries, perform natural language processing (NLP) tasks using langchain, generate human-like text with OpenAI, and utilize FAISS for efficient similarity search.
 
+1. Install necessary modules by running following command
+	pip install -r requirements.txt
+
+2. Generate your and ADD your openai key in ApiKey.py
+
+3. Launch the application using the following command: streamlit run RestaurantName.py 
+
 # Technologies Used:
 Langchain: A versatile natural language processing library used for tasks such as entity recognition, sentiment analysis, and more.
 
@@ -56,3 +63,5 @@ Interactive Visualizations:
 Implement visualizations to enhance the understanding of news data trends and relationships.
 # Conclusion:
 The Equity Research News Tool is a powerful asset for equity research analysts, offering a seamless blend of natural language processing, text generation, and similarity search. By combining langchain, the OpenAI API, and FAISS, this tool empowers analysts to stay informed and make data-driven decisions in the dynamic world of financial research. As the financial landscape evolves, so too does the Equity Research News Tool, promising continuous improvement and adaptability.
+
+![Alt text](Screenshot .png)
