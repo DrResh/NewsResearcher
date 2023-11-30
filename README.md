@@ -64,4 +64,4 @@ Implement visualizations to enhance the understanding of news data trends and re
 # Conclusion:
 The Equity Research News Tool is a powerful asset for equity research analysts, offering a seamless blend of natural language processing, text generation, and similarity search. By combining langchain, the OpenAI API, and FAISS, this tool empowers analysts to stay informed and make data-driven decisions in the dynamic world of financial research. As the financial landscape evolves, so too does the Equity Research News Tool, promising continuous improvement and adaptability.
 
-![Alt text](Screenshot .png)
+![Alt text](<Screenshot .png>)
